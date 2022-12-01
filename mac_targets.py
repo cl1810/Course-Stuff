@@ -1,3 +1,4 @@
+#This script correctly formats MAC addresses for addition to your Kismet .conf files for MAC Targeting.
 inputUser = input('Type a list of target MACs separated by spaces ')
 print("\n")
 

@@ -1,3 +1,4 @@
+#Script runs directly from command line and formats wireshark and terminal lines for deauth stuff
 
 apMAC = input('Enter the Access Point MAC: ')
 clientMAC = input('Enter the target Client MAC: ')
